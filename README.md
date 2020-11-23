@@ -6,6 +6,7 @@ Icons for the various github organizations like
  - [https://github.com/pharo-rdbms](https://github.com/pharo-rdbms)
  - [https://github.com/pharo-contributions](https://github.com/pharo-contributions)
  - [https://github.com/pharo-brand](https://github.com/pharo-brand)
+ - [https://github.com/pharo-catalog](https://github.com/pharo-catalog)
  - [https://github.com/pharo-pkg](https://github.com/pharo-pkg)
 
 ## HowTo 
