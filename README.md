@@ -9,6 +9,7 @@ Icons for the various github organizations like
  - [https://github.com/pharo-compendium](https://github.com/pharo-compendium)
  - [https://github.com/pharo-pkg](https://github.com/pharo-pkg)
  - [https://github.com/pharo-vcs](https://github.com/pharo-vcs)
+ - [https://github.com/pharo-containers](https://github.com/pharo-containers)
 
 ## HowTo 
  
